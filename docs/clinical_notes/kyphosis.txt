@@ -1,0 +1,28 @@
+Kyphosis severity is primarily measured using standing lateral X-rays to determine the angle of the thoracic spine, with a normal range between 20° and 45°. A curve exceeding 50° is considered abnormal and generally defined as hyperkyphosis. 
+
+Here are the primary methods used to measure kyphosis severity:
+1. Cobb Angle Method (Gold Standard) 
+The Cobb angle is the most commonly used technique, typically performed on a standing lateral X-ray. 
+
+Measurement: A line is drawn through the superior endplate of T4 (first thoracic vertebra) and a second line through the inferior endplate of T12 (last thoracic vertebra).
+Alternative: Sometimes measured from T2 or T5 to T12 depending on visibility.
+Severity: Curves >50° indicate hyperkyphosis. 
+
+2. Non-Radiological (Clinical) Measurements
+For routine screenings or when X-rays are not available, clinicians use non-invasive tools. 
+National Institutes of Health (.gov)
+National Institutes of Health (.gov)
+Flexicurve Ruler: A moldable, flexible ruler is shaped along the spine from C7 to L5-S1. A kyphosis index is calculated (width of the curve divided by length of the curve). An index greater than 13 indicates hyperkyphosis.
+Debrunner Kyphometer: A specialized protractor device with arms that are placed at the top and bottom of the curve to directly measure the thoracic angle.
+Kyphosis Wall Distance (C7WD): A practical, low-cost screening tool. A distance between the wall and the C7 vertebra (back of the neck) of 7.5 cm or more suggests thoracic hyperkyphosis.
+Blocks Method: While lying down (supine), 1.7 cm-thick blocks are placed under the head until a neutral position is achieved. A higher number of blocks indicates greater severity. 
+
+3. Diagnostic Imaging for Detailed Assessment
+Lateral X-ray: Standing lateral images are preferred to show the curve in its natural state.
+MRI: Used to evaluate the impact of the curve on the spinal cord or nerves, particularly if neurological symptoms like pain or numbness are present.
+EOS Imaging: A low-dose X-ray technology that allows for 3D modeling of the spine in a standing position. 
+
+Summary of Kyphosis Severity
+Normal: 20–45 degrees.
+Hyperkyphosis (Mild/Moderate): >40°–50°.
+Severe: Frequently considered to be over 70°–80°. 

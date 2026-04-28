@@ -1,0 +1,17 @@
+model:
+  encoder: b3
+  name: segformer
+seed: 42
+train:
+  batch_size: 16
+  image_size:
+  - 256
+  - 256
+  log_interval: 100
+  lr: 0.0001
+  max_steps: 160000
+  max_train: null
+  max_val: null
+  num_workers: 4
+  val_interval: 1000
+  view_type: null

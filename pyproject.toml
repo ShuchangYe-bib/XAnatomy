@@ -1,0 +1,53 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "xanatomy"
+version = "0.1.0"
+description = "Anatomy-aware chest X-ray segmentation and downstream screening tools."
+readme = "README.md"
+requires-python = ">=3.10"
+authors = [
+  { name = "XAnatomy Authors" }
+]
+keywords = ["medical-imaging", "chest-xray", "segmentation", "radiology", "segformer"]
+dependencies = [
+  "numpy>=1.24",
+  "pillow>=10.0",
+  "pyyaml>=6.0",
+  "torch>=2.1",
+  "torchvision>=0.16",
+  "transformers>=4.40",
+]
+
+[project.optional-dependencies]
+dev = [
+  "pytest>=8.0",
+]
+viz = [
+  "opencv-python>=4.8",
+  "plotly>=5.20",
+  "scikit-image>=0.22",
+  "nibabel>=5.2",
+  "scipy>=1.11",
+]
+
+[project.scripts]
+xanatomy-segment = "xanatomy.cli.segment:main"
+xanatomy-cardiomegaly = "xanatomy.cli.cardiomegaly:main"
+xanatomy-scoliosis = "xanatomy.cli.scoliosis:main"
+xanatomy-kyphosis = "xanatomy.cli.kyphosis:main"
+
+[tool.setuptools]
+package-dir = {"" = "src"}
+include-package-data = true
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.setuptools.package-data]
+xanatomy = ["resources/*.json", "resources/*.yaml"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]

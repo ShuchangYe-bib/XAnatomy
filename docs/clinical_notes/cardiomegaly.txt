@@ -1,0 +1,5 @@
+The severity of cardiomegaly is categorized by the degree to which the heart fills the thoracic cavity, with higher ratios indicating more significant disease: 
+Normal: CTR 0.42–0.50.
+Borderline/Mild: CTR > 0.50 (up to 0.55 in some definitions).
+Moderate to Severe: CTR > 0.55–0.60, indicating clear, significant enlargement.
+Severe/Extreme: CTR > 0.80 is rare, associated with advanced disease, profound cardiac remodeling, or severe congestive heart failure.

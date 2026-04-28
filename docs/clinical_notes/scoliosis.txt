@@ -1,0 +1,6 @@
+Scoliosis severity is measured by the Cobb angle (degree of curvature) and classified into mild (<25°), moderate (25–45°), and severe (>45°). Treatment ranges from observation to bracing for moderate curves, while curves >45°–50° may require surgery. Severity determines the risk of progression and functional limitations. 
+
+Scoliosis Severity Levels
+Mild (10–25°): Common in adolescents; often requires observation and monitoring.
+Moderate (25–45°): Frequently requires bracing to slow progression during growth spurts.
+Severe (>45): Noticeable postural changes, potential for back pain and reduced breathing capacity.
